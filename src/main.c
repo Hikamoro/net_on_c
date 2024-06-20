@@ -3,8 +3,7 @@
 
 int main()
 {
-    int len1 = 0;
-    scanf("%d", &len1);
+    int len1 = 10;
 
     for(int i = 0; i < len1;i++){
         printf("# ");
