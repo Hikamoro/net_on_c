@@ -1,1 +1,1 @@
-# net_on_c
+# Net for the game "snake"
